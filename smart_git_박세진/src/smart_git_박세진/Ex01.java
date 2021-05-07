@@ -5,5 +5,5 @@ public class Ex01 {
 	
 	String name;
 	String addr;
-	
+	String amg;
 }
