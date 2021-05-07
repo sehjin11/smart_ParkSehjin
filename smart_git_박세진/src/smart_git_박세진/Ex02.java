@@ -5,5 +5,6 @@ public class Ex02 {
 	
 	String name;
 	String addr;
+	String phone;
 	
 }
